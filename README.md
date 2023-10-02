@@ -2,45 +2,54 @@
 ## Latihan
 ### Modul Praktikum web
 #### Buatlah kerangka pengantar HTML 
-![gambar1](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/c060025b-dd4c-4694-bea0-2c1f42c9391e)
 
-#### Kemudian Buka file browser
-![gambar2](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/634d5899-138f-44fb-9cf1-6bd9a939c6cc)
+![gambar1](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/e8cf88d7-8c67-411f-ad70-493a00d4552c)
+
+![gambar2](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/8a8def5d-0ce3-48d8-ba41-74feff55aa38)
+
 
 
 ### 1. Membuat Paragraf
 #### Buatlah 2 buah paragraf menggunakan`<p></p>`
-![gambar3](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/60998c53-f1fc-436a-8ec8-d757840093b4)
+![gambar3](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/51468997-cc46-4b9a-8a2a-7a7ddec7773c)
+
 
 #### tampilan browser
-![gambar4](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/bbcaf1a5-e1ad-4742-b37a-f77ed11b80a3)
+
 
 ### 2. Buat Judul
-#### Tambahkan judul di masing-masing paragraf pakai`<h1>` dan `<h2>`
-![gambar5](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/d73dc444-9836-4125-a725-60c4677a3909)
+![gambar4](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/f54cdf4e-1ca8-47e7-9e47-5e36ad672692)
+ Tambahkan judul di masing-masing paragraf pakai`<h1>` dan `<h2>`
+![gambar5](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/22fc290c-aca1-478b-a7db-a0f14e5b8d71)
+
 
 #### tampilan browser
-![gambar6](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/d9f1458d-1df2-4f42-b854-61a5b91705dc)
+![gambar6](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/1815bc44-c9c9-44ce-9762-1d0772445807)
+
 
 ### 3. Memformat Text
 #### format text dan tambahkan fariasi seperti kata miring ,tebal ,garis bawah dll
-![gambar7](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/2c43668f-5145-4243-b828-36762dda92b4)
+![gambar7](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/0bfe9a4b-6519-442b-810e-232598604868)
+
 
 #### tampilan browser
 ![gambar8](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/8e79e6cb-1eff-49a1-8e50-40d3b1ec16ad)
 
 ### 4. menyispkan gambar
 #### letakan gambar di satu folder yang sama dengan file html ,lalu gunakan src
-![gambar9](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/7e170988-8f01-41f3-9cd4-bd17e3dff106)
+![gambar9](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/c097d579-4d3a-42cf-ae2c-cda60123f45a)
 
-![gambar10](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/771db498-8df7-456f-8c11-ad6464ad650f)
+
+![gambar10](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/0ac4151a-bbb7-4c92-a72a-be745f2ce1d3)
+
 
 #### tampilan browser
 ![gambar11](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/e9a8f861-a241-4cb6-ab6a-156069296fe3)
 
 ### 5. Tambahkan Hyperlink
 #### buatlah navigasi diatas ,lalu buatkan satu file html lagi untuk link kedua dan satunya gunakan google
-![gambar12](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/284dd63f-5197-4e56-a6ea-18f77c00b55b)
+![gambar12](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/569518a3-4e0f-43f9-91cf-e4239d9dc32d)
+
 
 #### tampilan browser
 ![gambar13](https://github.com/faizdzakiramadhani/Lab1web/assets/115913915/b289e9cf-8e33-4ed5-ae29-e26ab25f3650)
